@@ -113,3 +113,4 @@ wait
 echo "done"
 ls -al boot.img dtbo.img vendor_boot.img
 echo ""
+
